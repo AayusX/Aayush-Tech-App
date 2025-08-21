@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Aayush Tech</string>
+    <string name="author_name">Mr. Aayush Bhandari</string>
+    <string name="company_name">Aayush-Tech07</string>
+    <string name="welcome_message">Welcome to Aayush Tech - Your Daily Life Companion!</string>
+    <string name="survey_title">How did you know about us?</string>
+    <string name="tools_title">Daily Life Tools</string>
+    <string name="shortcuts_title">App Shortcuts</string>
+    <string name="about_title">About Aayush Tech</string>
+    
+    <!-- Survey Options -->
+    <string name="survey_option_1">Google Play Store</string>
+    <string name="survey_option_2">Friend Recommendation</string>
+    <string name="survey_option_3">Social Media</string>
+    <string name="survey_option_4">YouTube</string>
+    <string name="survey_option_5">Website</string>
+    <string name="survey_option_6">Other</string>
+    
+    <!-- Tool Names -->
+    <string name="tool_calculator">Calculator</string>
+    <string name="tool_flashlight">Flashlight</string>
+    <string name="tool_qr_scanner">QR Code Scanner</string>
+    <string name="tool_unit_converter">Unit Converter</string>
+    <string name="tool_notes">Quick Notes</string>
+    <string name="tool_color_picker">Color Picker</string>
+    <string name="tool_ruler">Digital Ruler</string>
+    <string name="tool_compass">Compass</string>
+    <string name="tool_password_generator">Password Generator</string>
+    <string name="tool_wifi_analyzer">WiFi Analyzer</string>
+    
+    <!-- App Shortcuts -->
+    <string name="shortcut_facebook">Facebook</string>
+    <string name="shortcut_youtube">YouTube</string>
+    <string name="shortcut_google">Google</string>
+    <string name="shortcut_whatsapp">WhatsApp</string>
+    <string name="shortcut_instagram">Instagram</string>
+    <string name="shortcut_twitter">Twitter</string>
+    <string name="shortcut_gmail">Gmail</string>
+    <string name="shortcut_chrome">Chrome</string>
+    <string name="shortcut_play_store">Play Store</string>
+    <string name="shortcut_settings">Settings</string>
+    
+    <!-- Buttons -->
+    <string name="btn_submit">Submit</string>
+    <string name="btn_close">Close</string>
+    <string name="btn_open">Open</string>
+    <string name="btn_share">Share</string>
+    <string name="btn_copy">Copy</string>
+    
+    <!-- Messages -->
+    <string name="thank_you_survey">Thank you for your feedback!</string>
+    <string name="app_not_installed">App is not installed on this device</string>
+    <string name="feature_coming_soon">Feature coming soon!</string>
+    
+    <!-- About Information -->
+    <string name="about_description">Aayush Tech is your ultimate daily life companion app, packed with useful tools and shortcuts to make your smartphone experience more efficient and enjoyable.</string>
+    <string name="version_info">Version 1.0</string>
+    <string name="developer_info">Developed by Mr. Aayush Bhandari</string>
+    <string name="company_info">© 2024 Aayush-Tech07. All rights reserved.</string>
+</resources>
